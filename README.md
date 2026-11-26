@@ -1,0 +1,2 @@
+# Real-Time-Retail-Feedback-Intelligence-System---Capstone-Project
+MIT Applied AI &amp; Data Science Capstone Project: Built an AI-powered real-time retail feedback intelligence system for ChicStyle to analyze customer reviews, detect sentiment, identify product-specific issues, and flag urgent concerns, helping retailers improve response times, customer experience, and brand loyalty during peak shopping seasons.
